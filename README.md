@@ -15,7 +15,7 @@
 
 | Proje | Açıklama |
 |------|----------|
-| [**quiz-app**](https://froquiz.com) | Quiz / eğitim odaklı web uygulaması |
+| [**froquiz.com**](https://froquiz.com) | Quiz / eğitim odaklı web uygulaması |
 
 ---
 
