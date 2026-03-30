@@ -1,38 +1,52 @@
 <div align="center">
 
-### Merhaba, ben Yusuf 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1f2937&height=140&section=header&text=Yusuf%20Seyitoglu&fontColor=ffffff&fontSize=40&fontAlignY=35" />
 
-*Ürün odaklı web geliştirme & pratik araçlar*
+### Ürün odaklı backend & web geliştirme
+Java / Spring Boot • Kafka • Docker • SQL • Next.js
 
-[![GitHub followers](https://img.shields.io/github/followers/yusufseyitoglu?label=Takip%C3%A7i&style=flat-square)](https://github.com/yusufseyitoglu)
+[![GitHub followers](https://img.shields.io/github/followers/yusufseyitoglu?label=Followers&style=flat-square)](https://github.com/yusufseyitoglu)
 [![Profile views](https://komarev.com/ghpvc/?username=yusufseyitoglu&style=flat-square)](https://github.com/yusufseyitoglu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yusufseyitogluu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufseyitogluu/)
+[![Website](https://img.shields.io/badge/Website-froquiz.com-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://froquiz.com)
 
 </div>
 
 ---
 
-### Öne çıkan projeler
+## Öne Çıkanlar
 
-| Proje | Açıklama |
-|------|----------|
-| [**froquiz.com**](https://froquiz.com) | Quiz / eğitim odaklı web uygulaması |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>froquiz.com</h3>
+      <p>Quiz / eğitim odaklı web uygulaması.</p>
+      <p>
+        <a href="https://froquiz.com"><b>Live</b></a>
+        •
+        <a href="https://github.com/yusufseyitoglu/quiz-app"><b>Repo</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>TurkceToEnglish</h3>
+      <p>CSV üzerinden TR→EN toplu çeviri (Helsinki-NLP).</p>
+      <p>
+        <a href="https://github.com/yusufseyitoglu/TurkceToEnglish"><b>Repo</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Teknoloji
+## Teknoloji
 
-`Java` · `Spring Boot` · `SQL` · `Docker` · `Apache Kafka` · `Django` · `Next.js` · `React` · `TypeScript` · `Node.js` · `Python`
+- Java, Spring Boot, SQL, Apache Kafka, Next.js, React, TypeScript, Node.js, Python, Django, Docker
 
 ---
-### İstatistikler
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufseyitoglu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+## İletişim
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufseyitoglu&layout=compact&theme=tokyonight&hide_border=true)
----
-
-### İletişim
-
-- GitHub: [@yusufseyitoglu](https://github.com/yusufseyitoglu)
-- LinkedIn: [@yusufseyitogluu](https://www.linkedin.com/in/yusufseyitogluu/)
----
+- LinkedIn: https://www.linkedin.com/in/yusufseyitogluu/
+- Website: https://froquiz.com
+- GitHub: https://github.com/yusufseyitoglu
