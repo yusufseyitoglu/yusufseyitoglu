@@ -27,13 +27,6 @@ Java / Spring Boot • Kafka • Docker • SQL • Next.js
         <a href="https://github.com/yusufseyitoglu/quiz-app"><b>Repo</b></a>
       </p>
     </td>
-    <td width="50%">
-      <h3>TurkceToEnglish</h3>
-      <p>CSV üzerinden TR→EN toplu çeviri (Helsinki-NLP).</p>
-      <p>
-        <a href="https://github.com/yusufseyitoglu/TurkceToEnglish"><b>Repo</b></a>
-      </p>
-    </td>
   </tr>
 </table>
 
