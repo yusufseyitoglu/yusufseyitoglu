@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1f2937&height=140&section=header&text=Yusuf%20Seyitoglu&fontColor=ffffff&fontSize=40&fontAlignY=35" />
 
-### Ürün odaklı backend & web geliştirme
+### Backend & web geliştirme
 Java / Spring Boot • Kafka • Docker • SQL • Next.js
 
 [![GitHub followers](https://img.shields.io/github/followers/yusufseyitoglu?label=Followers&style=flat-square)](https://github.com/yusufseyitoglu)
